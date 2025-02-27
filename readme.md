@@ -1,8 +1,9 @@
 <h1><center>Gibb's VotV printer models</center></h1>
 
 <details><summary>Description</summary>
-This a public archive of models i ported to VotV in-game printer. If ya want me to port some model ya have contact me via discord: gibbdev <@624216759993368597><br>
+This a public archive of models i ported to VotV in-game printer. If ya want me to port some model ya have contact me via discord: <a href="https://discordapp.com/channels/@me/624216759993368597/">gibbdev <@624216759993368597></a>
 </details>
+<br>
 
 <details><summary>Models:</summary>
 <ul>
