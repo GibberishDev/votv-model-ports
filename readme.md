@@ -1,4 +1,9 @@
 <h1><center>Gibb's VotV printer models</center></h1>
+
+<details><summary>Description</summary>
+This a public archive of models i ported to VotV in-game printer. If ya want me to port some model ya have contact me via discord: gibbdev <@624216759993368597><br>
+</details>
+
 <details><summary>Models:</summary>
 <ul>
 <li><a href="https://github.com/GibberishDev/votv-model-ports?tab=readme-ov-file#ps1-cat">PS1 Cat</a></li>
